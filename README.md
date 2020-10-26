@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 I am Małgosia Sobocińska
 
 <!--
 **GosiaSo/GosiaSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ 
 -->
+
+📫 How to reach me:
+[![Gmail Badge](https://img.shields.io/badge/-sobocinska.malgo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sobocinska.malgo@gmail.com)](mailto:sobocinska.malgo@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-malgorzatasobocinska-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malgorzatasobocinska/)](https://www.linkedin.com/in/malgorzatasobocinska/) <p align='left'>
+  <p> After the end of an intensive bootcamp, I am learning by myself. 
+  However, I know that nothing can replace cooperation with senior teammates.</p>
+  
+### Technologies:
+  - Java
+  - Spring
+  - Hibernate
+  - MySql
+  - JDBC
+  - REST
+  - API
+
+<p> I’m looking to expand my skills as a Java developer and I encourage you to get acquainted with my projects. </p>
+
+<p>  :blue_book: student: Postgraduate studies 2020/21 -  Programming in .NET </p>
+<p> :school: graduated: full time Java Bootcamp (280h) </p>
+</p>
+<p> :octocat: hobbies: psychology, sudoku lover, problems on leetcode, :innocent: ex recruiter </p>
+
