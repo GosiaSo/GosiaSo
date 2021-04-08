@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <p> I’m looking to expand my skills as a Java developer and I encourage you to get acquainted with my projects. </p>
 
 <p>  :blue_book: student: Postgraduate studies 2020/21 -  Programming in .NET </p>
-<p> :school: graduated: full time Java Bootcamp (280h) </p>
+<p> :school: graduated: studies in Psychology, Managament studies, full time Java Bootcamp (280h) </p>
 </p>
 <p> :octocat: hobbies: psychology, sudoku lover, problems on leetcode, :innocent: ex recruiter </p>
 
