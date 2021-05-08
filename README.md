@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-sobocinska.malgo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sobocinska.malgo@gmail.com)](mailto:sobocinska.malgo@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-malgorzatasobocinska-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malgorzatasobocinska/)](https://www.linkedin.com/in/malgorzatasobocinska/) <p align='left'>
-  <p> After the end of an intensive bootcamp, I am learning by myself. 
-  However, I know that nothing can replace cooperation with senior teammates.</p>
+  <p> Hi, I'm working as a Junior Java Developer, still learning new things. Send me a message, I'm happy to talk about new projects and solutions. </p>
   
 ### Technologies:
   - Java
@@ -37,5 +36,5 @@ Here are some ideas to get you started:
 <p>  :blue_book: student: Postgraduate studies 2020/21 -  Programming in .NET </p>
 <p> :school: graduated: studies in Psychology, Management studies, full time Java Bootcamp (280h) </p>
 </p>
-<p> :octocat: hobbies: psychology, sudoku lover, problems on leetcode, :innocent: ex recruiter </p>
+<p> :octocat: hobbies: psychology, sudoku lover, problems on leetcode, :innocent: ex recruiter , bookworm </p>
 
