@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-sobocinska.malgo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sobocinska.malgo@gmail.com)](mailto:sobocinska.malgo@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-malgorzatasobocinska-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malgorzatasobocinska/)](https://www.linkedin.com/in/malgorzatasobocinska/) <p align='left'>
   <p> Hi, I'm working as a Junior Java Developer, still learning new things. Send me a message, I'm happy to talk about new projects and solutions. </p>
   
 ### Technologies:
