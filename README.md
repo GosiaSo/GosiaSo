@@ -1,4 +1,4 @@
-# Hi there 👋 I am Małgosia Sobocińska
+# Hi there 👋 I am Gosia
 
 <!--
 **GosiaSo/GosiaSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
